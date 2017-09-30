@@ -1,0 +1,21 @@
+{
+	"name": "croatian",
+	"code": "hr",
+	"value":
+	{
+		"home": "Početna",
+		"servers": "Serveri",
+		"direct_connect": "Direktno Spajanje",
+		"directsub": "IGRAJ & UŽIVAJ!",
+		"settings": "Postavke",
+		"settingssub": "prilagodi, promjeni, dominiraj!",
+		"nickname": "Ime Igrača :",
+		"path": "Lokacija Igre :",
+		"aboutus": "O Nama",
+		"support": "Podrška",
+		"yeap": "Da",
+		"cpath": "Promjeni Lokaciju?",
+		"cnickname": "Promjeni ime igrača?",
+		"quit": "Izlaz"
+	}
+}
