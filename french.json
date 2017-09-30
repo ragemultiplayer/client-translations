@@ -7,15 +7,15 @@
 		"servers": "Serveurs",
 		"direct_connect": "Connexion directe",
 		"directsub": "PLAY & ENJOY!",
-		"settings": "Parametres",
-		"settingssub": "Parametres multijoueur",
+		"settings": "Paramètres",
+		"settingssub": "Paramètres multijoueur",
 		"nickname": "Nom en jeu :",
 		"path": "Chemin du jeu :",
-		"aboutus": "A propos de nous",
+		"aboutus": "A propos",
 		"support": "Support",
 		"yeap": "Oui",
-		"cpath": "Change le chemin?",
-		"cnickname": "Changer de nom?",
-		"quit": "Quit game"
+		"cpath": "Changer le chemin ?",
+		"cnickname": "Changer de nom ?",
+		"quit": "Quitter"
 	}
 }
