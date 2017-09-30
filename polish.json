@@ -1,0 +1,21 @@
+{
+	"name": "polish",
+	"code": "pl",
+	"value":
+	{
+		"home": "Start",
+		"servers": "Serwery",
+		"direct_connect": "Połączenie bezpośrednie",
+		"directsub": "GRAJ I CIESZ SIĘ!",
+		"settings": "Ustawienia",
+		"settingssub": "dostosowywuj, zmieniaj, dominuj!",
+		"nickname": "Nazwa w grze :",
+		"path": "Ścieżka do gry :",
+		"aboutus": "O nas",
+		"support": "Wsparcie",
+		"yeap": "Ok",
+		"cpath": "Zmienić ścieżkę?",
+		"cnickname": "Zmienić nazwę w grze?",
+		"quit": "Wyjdź z gry"
+	}
+}
