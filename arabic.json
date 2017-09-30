@@ -1,0 +1,21 @@
+{
+	"name": "arabic",
+	"code": "ar",
+	"value":
+	{
+		"home": "الرئيسية",
+		"servers": "السرفرات",
+		"direct_connect": "اتصال مباشر",
+		"directsub": "العب & امرح",
+		"settings": "الاعدادات",
+		"settingssub": "تخصيص, تغيير, سيطر",
+		"nickname": "الأسم داخل اللعبة :",
+		"path": "مسار اللعبة: ",
+		"aboutus": "عننا",
+		"support": "الدعم",
+		"yeap": "نعم",
+		"cpath": "غيرت المسار ؟",
+		"cnickname": "غير الاسم ؟",
+		"quit": "إانهاء اللعبة"
+	}
+}
