@@ -10,11 +10,11 @@
 		"settings": "Nustatymai",
 		"settingssub": "koreguok, keisk, dominuok!",
 		"nickname": "Slapyvardis :",
-		"path": "Kelias iki žaidimo :",
+		"path": "Žaidimo katalogas :",
 		"aboutus": "Apie mus",
 		"support": "Pagalba",
 		"yeap": "Taip",
-		"cpath": "Ar tikrai norite pakeisti kelią iki žaidimo?",
+		"cpath": "Ar tikrai norite pakeisti žaidimo katalogą?",
 		"cnickname": "Ar tikrai norite pakeisti slapyvardį?",
 		"quit": "Išjungti žaidimą"
 	}
