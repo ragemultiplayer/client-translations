@@ -8,14 +8,14 @@
 		"direct_connect": "直连",
 		"directsub": "享受乐趣吧!",
 		"settings": "设置",
-		"settingssub": "调整你的RAGEMP",
-		"nickname": "游戏内名称 :",
+		"settingssub": "设置RAGEMP",
+		"nickname": "游戏名称 :",
 		"path": "游戏目录 :",
 		"aboutus": "关于我们",
 		"support": "支持",
 		"yeap": "好的",
-		"cpath": "更改游戏目录 ?",
-		"cnickname": "更改名称 ?",
-		"quit": "undefined"
+		"cpath": "修改游戏目录",
+		"cnickname": "更改名称",
+		"quit": "退出"
 	}
 }
