@@ -1,6 +1,8 @@
 {
 	"name": "arabic",
 	"code": "ar",
+	"rtl": true,
+	
 	"value":
 	{
 		"home": "الرئيسية",
