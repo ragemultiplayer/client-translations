@@ -6,16 +6,16 @@
 		"home": "Accueil",
 		"servers": "Serveurs",
 		"direct_connect": "Connexion directe",
-		"directsub": "PLAY & ENJOY!",
+		"directsub": "JOUEZ ET AMUSEZ-VOUS!",
 		"settings": "Paramètres",
 		"settingssub": "Paramètres multijoueur",
-		"nickname": "Nom en jeu :",
+		"nickname": "Pseudoynyme en jeu :",
 		"path": "Chemin du jeu :",
-		"aboutus": "A propos",
+		"aboutus": "À propos",
 		"support": "Support",
 		"yeap": "Oui",
 		"cpath": "Changer le chemin ?",
-		"cnickname": "Changer de nom ?",
+		"cnickname": "Changer de pseudonyme ?",
 		"quit": "Quitter"
 	}
 }
