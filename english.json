@@ -1,0 +1,21 @@
+{
+	"name": "english",
+	"code": "en",
+	"value":
+	{
+		"home": "Home",
+		"servers": "Servers",
+		"direct_connect": "Direct connect",
+		"directsub": "PLAY & ENJOY!",
+		"settings": "Settings",
+		"settingssub": "cuztomize, change, dominate!",
+		"nickname": "In-game Nickname :",
+		"path": "Path to the game :",
+		"aboutus": "About us",
+		"support": "Support",
+		"yeap": "Yeap",
+		"cpath": "Сhange the path?",
+		"cnickname": "Сhange the nickname?",
+		"quit": "Quit game"
+	}
+}

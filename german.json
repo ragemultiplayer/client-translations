@@ -1,0 +1,21 @@
+{
+	"name": "german",
+	"code": "de",
+	"value":
+	{
+		"home": "Startseite",
+		"servers": "Server",
+		"direct_connect": "Direkt Verbindung",
+		"directsub": "Spielen und Spaß haben",
+		"settings": "Einstellungen",
+		"settingssub": "Anpassen, verändern, dominieren!",
+		"nickname": "Nickname im Spiel :",
+		"path": "Pfad zum dem Spiel :",
+		"aboutus": "Über Uns",
+		"support": "Hilfe",
+		"yeap": "Ja!",
+		"cpath": "Pfad verändern?",
+		"cnickname": "Nicknamen verändern?",
+		"quit": "Quit game"
+	}
+}

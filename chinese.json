@@ -1,0 +1,21 @@
+{
+	"name": "chinese",
+	"code": "cn",
+	"value":
+	{
+		"home": "主页",
+		"servers": "服务器列表",
+		"direct_connect": "直连",
+		"directsub": "享受乐趣吧!",
+		"settings": "设置",
+		"settingssub": "调整你的RAGEMP",
+		"nickname": "游戏内名称 :",
+		"path": "游戏目录 :",
+		"aboutus": "关于我们",
+		"support": "支持",
+		"yeap": "好的",
+		"cpath": "更改游戏目录 ?",
+		"cnickname": "更改名称 ?",
+		"quit": "undefined"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "romanian",
+	"code": "ro",
+	"value":
+	{
+		"home": "Acasă",
+		"servers": "Servere",
+		"direct_connect": "Conectare directă",
+		"directsub": "Joacă și bucură-te!",
+		"settings": "Setări",
+		"settingssub": "personalizează, schimbă, domină!",
+		"nickname": "Porecla în joc :",
+		"path": "Locația către joc :",
+		"aboutus": "Despre noi",
+		"support": "Sprijin",
+		"yeap": "Da",
+		"cpath": "Schimbi locația?",
+		"cnickname": "Schimbi porecla?",
+		"quit": "undefined"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "portuguese",
+	"code": "pt",
+	"value":
+	{
+		"home": "Início",
+		"servers": "Servidores",
+		"direct_connect": "Conexão direta",
+		"directsub": "JOGA & DIVERTE-TE!",
+		"settings": "Definições",
+		"settingssub": "Definições de multijogador",
+		"nickname": "Nickname no jogo :",
+		"path": "Caminho para o jogo :",
+		"aboutus": "Sobre nós",
+		"support": "Suporte",
+		"yeap": "Sim!",
+		"cpath": "Mudar o caminho?",
+		"cnickname": "Mudar o nickname?",
+		"quit": "undefined"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "spanish",
+	"code": "es",
+	"value":
+	{
+		"home": "Inicio",
+		"servers": "Servidores",
+		"direct_connect": "Conexión directa",
+		"directsub": "Juega y DIVIERTETE!",
+		"settings": "Parametros",
+		"settingssub": "Modifique, cambie, domine!",
+		"nickname": "Nickname en el juego :",
+		"path": "Ruta del juego :",
+		"aboutus": "Acerca de",
+		"support": "Soporte",
+		"yeap": "Si",
+		"cpath": "Cambia la ruta?",
+		"cnickname": "Cambia el nickname?",
+		"quit": "Salir del juego"
+	}
+}

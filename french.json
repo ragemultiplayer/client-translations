@@ -1,0 +1,21 @@
+{
+	"name": "french",
+	"code": "fr",
+	"value":
+	{
+		"home": "Accueil",
+		"servers": "Serveurs",
+		"direct_connect": "Connexion directe",
+		"directsub": "PLAY & ENJOY!",
+		"settings": "Parametres",
+		"settingssub": "Parametres multijoueur",
+		"nickname": "Nom en jeu :",
+		"path": "Chemin du jeu :",
+		"aboutus": "A propos de nous",
+		"support": "Support",
+		"yeap": "Oui",
+		"cpath": "Change le chemin?",
+		"cnickname": "Changer de nom?",
+		"quit": "Quit game"
+	}
+}
