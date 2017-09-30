@@ -1,0 +1,21 @@
+{
+	"name": "Magyar",
+	"code": "hu",
+	"value":
+	{
+		"home": "Otthon",
+		"servers": "Szerverek",
+		"direct_connect": "Egyenes kapcsolás",
+		"directsub": "JÁTSZODJ ÉS ÉLVEZD!",
+		"settings": "Beállítások",
+		"settingssub": "szabd testedre, módosíts, uralkodj!",
+		"nickname": "Játékbeli név :",
+		"path": "Út a játékhoz :",
+		"aboutus": "Rólunk",
+		"support": "Segítség",
+		"yeap": "Igen",
+		"cpath": "Megvátoztassa a játékútat?",
+		"cnickname": "Megvátoztassa a nevét?",
+		"quit": "Játék bezárása"
+	}
+}
