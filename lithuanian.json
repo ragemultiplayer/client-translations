@@ -1,0 +1,21 @@
+{
+	"name": "lithuanian",
+	"code": "lt",
+	"value":
+	{
+		"home": "Pradžia",
+		"servers": "Serveriai",
+		"direct_connect": "Tiesioginis prisijungimas",
+		"directsub": "Žaiskite & Mėgaukitės!",
+		"settings": "Nustatymai",
+		"settingssub": "koreguok, keisk, dominuok!",
+		"nickname": "Slapyvardis :",
+		"path": "Kelias iki žaidimo :",
+		"aboutus": "Apie mus",
+		"support": "Pagalba",
+		"yeap": "Taip",
+		"cpath": "Ar tikrai norite pakeisti kelią iki žaidimo?",
+		"cnickname": "Ar tikrai norite pakeisti slapyvardį?",
+		"quit": "Išjungti žaidimą"
+	}
+}
