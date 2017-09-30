@@ -5,7 +5,7 @@
 	{
 		"home": "Startseite",
 		"servers": "Server",
-		"direct_connect": "Direkt Verbindung",
+		"direct_connect": "Direktverbindung",
 		"directsub": "Spielen und Spaß haben",
 		"settings": "Einstellungen",
 		"settingssub": "Anpassen, verändern, dominieren!",
@@ -16,6 +16,6 @@
 		"yeap": "Ja!",
 		"cpath": "Pfad verändern?",
 		"cnickname": "Nicknamen verändern?",
-		"quit": "Quit game"
+		"quit": "Spiel beenden"
 	}
 }
