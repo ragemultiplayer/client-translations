@@ -1,0 +1,21 @@
+{
+	"name": "vietnamese",
+	"code": "vn",
+	"value":
+	{
+		"home": "Nhà",
+		"servers": "Máy chủ",
+		"direct_connect": "Kết nối trực tiếp",
+		"directsub": "Chơi & Thưởng thức",
+		"settings": "Cài đặt",
+		"settingssub": "tùy chỉnh, thay đổi, thống trị!",
+		"nickname": "Tên nick :",
+		"path": "Thư mục trò chơi :",
+		"aboutus": "Về chúng tôi",
+		"support": "Ủng hộ",
+		"yeap": "Vâng!",
+		"cpath": "Thay đổi thư mục?",
+		"cnickname": "Thay đổi biệt hiệu?",
+		"quit": "Thoát trò chơi"
+	}
+}
