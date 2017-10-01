@@ -5,17 +5,17 @@
 	{
 		"home": "Početna",
 		"servers": "Serveri",
-		"direct_connect": "Direktno Spajanje",
+		"direct_connect": "Izravno spajanje",
 		"directsub": "IGRAJ & UŽIVAJ!",
 		"settings": "Postavke",
-		"settingssub": "prilagodi, promjeni, dominiraj!",
-		"nickname": "Ime Igrača :",
-		"path": "Lokacija Igre :",
-		"aboutus": "O Nama",
+		"settingssub": "prilagodi, promijeni, dominiraj!",
+		"nickname": "Ime igrača :",
+		"path": "Lokacija igre :",
+		"aboutus": "O nama",
 		"support": "Podrška",
 		"yeap": "Da",
-		"cpath": "Promjeni Lokaciju?",
-		"cnickname": "Promjeni ime igrača?",
+		"cpath": "Promijeni lokaciju?",
+		"cnickname": "Promijeni ime igrača?",
 		"quit": "Izlaz"
 	}
 }
