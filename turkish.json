@@ -1,0 +1,21 @@
+{
+	"name": "turkish",
+	"code": "tr",
+	"value":
+	{
+		"home": "Ana Sayfa",
+		"servers": "Sunucular",
+		"direct_connect": "Direk bağlantı",
+		"directsub": "OYNA & EĞLEN!",
+		"settings": "Ayarlar",
+		"settingssub": "Özelleştir, değiştir, hakim ol!",
+		"nickname": "Kullanıcı adı :",
+		"path": "Oyun klasörü :",
+		"aboutus": "Hakkımızda",
+		"support": "Destek",
+		"yeap": "Evet!",
+		"cpath": "Klasör değiştirilsin mi?",
+		"cnickname": "Kullanıcı adı değiştirilsin mi?",
+		"quit": "Oyundan ayrıl"
+	}
+}
