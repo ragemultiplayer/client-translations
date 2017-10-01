@@ -1,0 +1,21 @@
+{
+	"name": "indonesian",
+	"code": "ID",
+	"value":
+	{
+		"home": "Rumah",
+		"servers": "Servers",
+		"direct_connect": "Koneksi langsung",
+		"directsub": "Bermanin & Nikmati!",
+		"settings": "Pengaturan",
+		"settingssub": "Menyesuaikan, perubahan, mendominasi!",
+		"nickname": "Nama panggilan :",
+		"path": "Folder permainan :",
+		"aboutus": "Tentang kami",
+		"support": "Dukungan",
+		"yeap": "Iya nih!",
+		"cpath": "Ubah folder?",
+		"cnickname": "Сhange julukan?",
+		"quit": "Keluar dari permainan"
+	}
+}
