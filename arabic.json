@@ -9,15 +9,15 @@
 		"servers": "السرفرات",
 		"direct_connect": "اتصال مباشر",
 		"directsub": "العب & امرح",
-		"settings": "الاعدادات",
+		"settings": "إعدادات",
 		"settingssub": "تخصيص, تغيير, سيطر",
-		"nickname": "الأسم داخل اللعبة :",
-		"path": "مسار اللعبة: ",
-		"aboutus": "عننا",
+		"nickname": "الاسم المستعار",
+		"path": "مسار اللعبة",
+		"aboutus": "عنَّا",
 		"support": "الدعم",
 		"yeap": "نعم",
 		"cpath": "غيرت المسار ؟",
 		"cnickname": "غير الاسم ؟",
-		"quit": "إانهاء اللعبة"
+		"quit": "خروج"
 	}
 }
