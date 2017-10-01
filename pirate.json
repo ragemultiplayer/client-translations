@@ -1,0 +1,21 @@
+{
+	"name": "pirate",
+	"code": "xx-pirate",
+	"value":
+	{
+		"home": "Quarters",
+		"servers": "Sail ho!",
+		"direct_connect": "Weigh Anchor",
+		"directsub": "SET SAIL & CONQUER!",
+		"settings": "Change ye duffles",
+		"settingssub": "Dead Men Tell No Tales!",
+		"nickname": "Me name :",
+		"path": "Dock of the ship :",
+		"aboutus": "Scourge of the 7 Seas",
+		"support": "Deck Hands",
+		"yeap": "Yo ho ho",
+		"cpath": "Сhange the ship?",
+		"cnickname": "Сhange me name?",
+		"quit": "Scuttle"
+	}
+}
