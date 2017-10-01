@@ -1,0 +1,21 @@
+{
+	"name": "italian",
+	"code": "it",
+	"value":
+	{
+		"home": "Casa",
+		"servers": "Servers",
+		"direct_connect": "Collegamento diretto",
+		"directsub": "Giocare & Godere!",
+		"settings": "Impostazioni",
+		"settingssub": "personalizzare, cambia, dominare!",
+		"nickname": "Nome utente :",
+		"path": "Cartella del gioco :",
+		"aboutus": "Riguardo a noi",
+		"support": "Supporto",
+		"yeap": "Si!",
+		"cpath": "Cambia cartella?",
+		"cnickname": "Cambiare nome utente??",
+		"quit": "Lasci il gioco"
+	}
+}
