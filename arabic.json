@@ -8,7 +8,7 @@
 		"home": "الرئيسية",
 		"servers": "السرفرات",
 		"direct_connect": "اتصال مباشر",
-		"directsub": "العب & امرح",
+		"directsub": "إلعب وامرح",
 		"settings": "إعدادات",
 		"settingssub": "تخصيص, تغيير, سيطر",
 		"nickname": "الاسم المستعار",
@@ -16,8 +16,8 @@
 		"aboutus": "عنَّا",
 		"support": "الدعم",
 		"yeap": "نعم",
-		"cpath": "غيرت المسار ؟",
-		"cnickname": "غير الاسم ؟",
+		"cpath": "تغيير المسار",
+		"cnickname": "تغيير الاسم",
 		"quit": "خروج"
 	}
 }
