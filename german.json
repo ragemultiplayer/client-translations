@@ -11,11 +11,11 @@
 		"settingssub": "Anpassen, verändern, dominieren!",
 		"nickname": "Nickname im Spiel :",
 		"path": "Pfad zum dem Spiel :",
-		"aboutus": "Über Uns",
+		"aboutus": "Über uns",
 		"support": "Hilfe",
 		"yeap": "Ja!",
-		"cpath": "Pfad verändern?",
-		"cnickname": "Nicknamen verändern?",
+		"cpath": "Pfad ändern?",
+		"cnickname": "Nicknamen ändern?",
 		"quit": "Spiel verlassen"
 	}
 }
