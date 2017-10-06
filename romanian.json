@@ -6,16 +6,16 @@
 		"home": "Acasă",
 		"servers": "Servere",
 		"direct_connect": "Conectare directă",
-		"directsub": "Joacă și bucură-te!",
+		"directsub": "JOACĂ ȘI DISTREAZĂ-TE!",
 		"settings": "Setări",
 		"settingssub": "personalizează, schimbă, domină!",
 		"nickname": "Porecla în joc :",
-		"path": "Locația către joc :",
+		"path": "Locația jocului :",
 		"aboutus": "Despre noi",
-		"support": "Sprijin",
+		"support": "Suport",
 		"yeap": "Da",
 		"cpath": "Schimbi locația?",
 		"cnickname": "Schimbi porecla?",
-		"quit": "undefined"
+		"quit": "Părăsește jocul"
 	}
 }
