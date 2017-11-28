@@ -1,0 +1,21 @@
+{
+	"name": "hebrew",
+	"code": "he",
+	"value":
+	{
+		"home": "עמוד הבית",
+		"servers": "שרתים",
+		"direct_connect": "התחברות ישירה",
+		"directsub": "שחק!",
+		"settings": "הגדרות",
+		"settingssub": "שנה את ההגדרות.",
+		"nickname": "כינוי:",
+		"path": "נתיב לקובץ המשחק:",
+		"aboutus": "אודותינו",
+		"support": "תמיכה",
+		"yeap": "כן",
+		"cpath": "לשנות את הנתיב?",
+		"cnickname": "לשנות את הכינוי?",
+		"quit": "צא מהמשחק"
+	}
+}
