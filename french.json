@@ -8,13 +8,13 @@
 		"direct_connect": "Connexion directe",
 		"directsub": "JOUEZ ET AMUSEZ-VOUS!",
 		"settings": "Paramètres",
-		"settingssub": "Paramètres multijoueur",
+		"settingssub": "Personnalisez, changez, dominez!",
 		"nickname": "Pseudonyme",
 		"path": "Répertoire du jeu",
-		"aboutus": "À propos",
+		"aboutus": "À propos de nous",
 		"support": "Support",
 		"yeap": "Ouais",
-		"cpath": "Changer le chemin ?",
+		"cpath": "Changer le répertoire ?",
 		"cnickname": "Changer de pseudonyme ?",
 		"quit": "Quitter"
 	}
