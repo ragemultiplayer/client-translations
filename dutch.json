@@ -1,0 +1,21 @@
+{
+	"name": "dutch",
+	"code": "nl",
+	"value":
+	{
+		"home": "Home",
+		"servers": "Servers",
+		"direct_connect": "Direct verbinden",
+		"directsub": "SPEEL & GENIET!",
+		"settings": "Instellingen",
+		"settingssub": "wijzig, verander, domineer!",
+		"nickname": "In-game Bijnaam :",
+		"path": "Pad naar het spel :",
+		"aboutus": "Over ons",
+		"support": "Ondersteuning",
+		"yeap": "Yeap",
+		"cpath": "Wijzig het pad?",
+		"cnickname": "Wijzig uw bijnaam?",
+		"quit": "Stoppen met spelen"
+	}
+}
