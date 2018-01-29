@@ -1,0 +1,21 @@
+{
+	"name": "estonian",
+	"code": "et",
+	"value":
+	{
+		"home": "Kodu",
+		"servers": "Serverid",
+		"direct_connect": "Otseühendus",
+		"directsub": "MÄNGI & NAUDI!",
+		"settings": "Seaded",
+		"settingssub": "kohanda, muuda, domineeri!",
+		"nickname": "Mängusisene nimi :",
+		"path": "Mängu asukoht :",
+		"aboutus": "Meist",
+		"support": "Toetus",
+		"yeap": "Yeap",
+		"cpath": "Muuda mängu asukohta?",
+		"cnickname": "Muuda nime?",
+		"quit": "Sulge mäng"
+	}
+}
