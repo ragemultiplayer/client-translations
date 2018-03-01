@@ -6,16 +6,16 @@
 		"home": "Startseite",
 		"servers": "Server",
 		"direct_connect": "Schnellverbindung",
-		"directsub": "Spielen und Spaß haben",
+		"directsub": "Spiel und Spaß!",
 		"settings": "Einstellungen",
-		"settingssub": "Anpassen, verändern, dominieren!",
-		"nickname": "Nickname im Spiel :",
-		"path": "Pfad zum dem Spiel :",
+		"settingssub": "Mach's dir wie du es willst!",		//means "do what YOU want to do" sounds better in german lol
+		"nickname": "Benutzername im Spiel :",
+		"path": "Speicherort :",				//more commen in german; means "save location"
 		"aboutus": "Über uns",
 		"support": "Hilfe",
 		"yeap": "Ja!",
-		"cpath": "Pfad ändern?",
-		"cnickname": "Nicknamen ändern?",
+		"cpath": "Speicherort ändern?",
+		"cnickname": "Benutzernamen ändern?",
 		"quit": "Spiel verlassen"
 	}
 }
