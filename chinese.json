@@ -3,19 +3,19 @@
 	"code": "cn",
 	"value":
 	{
-		"home": "主页",
+		"home": "首页",
 		"servers": "服务器列表",
-		"direct_connect": "直连",
+		"direct_connect": "直接连接",
 		"directsub": "享受乐趣吧!",
 		"settings": "设置",
 		"settingssub": "设置RAGEMP",
 		"nickname": "游戏名称 :",
 		"path": "游戏目录 :",
-		"aboutus": "关于我们",
+		"aboutus": "关于",
 		"support": "支持",
 		"yeap": "好的",
 		"cpath": "修改游戏目录",
-		"cnickname": "更改名称",
+		"cnickname": "修改名称",
 		"quit": "退出"
 	}
 }
