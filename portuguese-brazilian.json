@@ -1,0 +1,21 @@
+{
+	"name": "portuguese-brazilian",
+	"code": "pt-br",
+	"value":
+	{
+		"home": "Início",
+		"servers": "Servidores",
+		"direct_connect": "Conexão direta",
+		"directsub": "JOGUE & DIVIRTA-SE!",
+		"settings": "Configurações",
+		"settingssub": "Personalize, mude, domine!",
+		"nickname": "Nickname no jogo :",
+		"path": "Caminho para o jogo :",
+		"aboutus": "Sobre nós",
+		"support": "Suporte",
+		"yeap": "Sim!",
+		"cpath": "Mudar o caminho?",
+		"cnickname": "Mudar o nickname?",
+		"quit": "Sair"
+	}
+}
