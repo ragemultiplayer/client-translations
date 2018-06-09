@@ -1,0 +1,21 @@
+{
+	"name": "finnish",
+	"code": "fi",
+	"value":
+	{
+		"home": "Koti",
+		"servers": "Palvelimet",
+		"direct_connect": "Yhdistä suoraan",
+		"directsub": "PELAA & NAUTI!",
+		"settings": "Asetukset",
+		"settingssub": "kustomisoi, muuta, dominoi!",
+		"nickname": "Pelaajanimi :",
+		"path": "Polku :",
+		"aboutus": "Tietoa meistä",
+		"support": "Tuki",
+		"yeap": "Jep",
+		"cpath": "Muuta polkua?",
+		"cnickname": "Muuta pelaajanimeä?",
+		"quit": "Poistu pelistä"
+	}
+}
