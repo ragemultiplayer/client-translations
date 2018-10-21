@@ -1,0 +1,21 @@
+{
+	"name": "czech",
+	"code": "cs",
+	"value":
+	{
+		"home": "Domu",
+		"servers": "Servery",
+		"direct_connect": "Přímé připojení",
+		"directsub": "HRAJ & UŽÍVEJ!",
+		"settings": "Nastavení",
+		"settingssub": "uprav, změň, dominuj!",
+		"nickname": "Herní jméno :",
+		"path": "Cesta ke hře :",
+		"aboutus": "O nás",
+		"support": "Podpora",
+		"yeap": "Jop",
+		"cpath": "Změnit cestu ke hře?",
+		"cnickname": "Změnit herní jméno?",
+		"quit": "Opustit hru"
+	}
+}
